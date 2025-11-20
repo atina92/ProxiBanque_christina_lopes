@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>ProxiBanque2</artifactId>
+    <artifactId>ProxBanque</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ProxiBanque2</name>
-    <description>ProxiBanque2</description>
+    <name>ProxBanque</name>
+    <description>ProxBanque</description>
     <url/>
     <licenses>
         <license/>

@@ -1,13 +1,13 @@
-package org.example.proxibanque2;
+package org.example.proxbanque;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProxiBanque2Application {
+public class ProxBanqueApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ProxiBanque2Application.class, args);
+        SpringApplication.run(ProxBanqueApplication.class, args);
     }
 
 }

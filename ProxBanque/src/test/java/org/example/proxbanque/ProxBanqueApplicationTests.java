@@ -1,10 +1,10 @@
-package org.example.proxibanque2;
+package org.example.proxbanque;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProxiBanque2ApplicationTests {
+class ProxBanqueApplicationTests {
 
     @Test
     void contextLoads() {
