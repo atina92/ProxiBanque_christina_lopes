@@ -30,4 +30,8 @@ public class ClientController {
         return clientService.updateClient(client)
                 .orElseThrow(() -> new RuntimeException("Client not found"));
     }
+    @DeleteMapping
+    public void deleteClient(@RequestBody Client client) {
+        clientService.deleteClient(client);
+    }
 }
